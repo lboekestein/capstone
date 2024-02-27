@@ -26,13 +26,12 @@
 ### Current TODO's
 
 - [ ] Collect data from GDELT Project
-    - [ ] Make a list of all countries and the ways they can be referred to
-        - [ ] Crosslist with GDELT naming conventions
+    - [X] Make a list of all countries and the ways they can be referred to
+        - [X] Crosslist with GDELT naming conventions
         - [ ] Look at Mueller & Rauh's criteria for article selection
-    - [ ] Make a list of all relevant themes we want to track
-        - [ ] Look at GDELT documentation
-        - [ ] Check most frequently used themes
-        - [ ] Check literature for relevant features in other prediction models
+    - [X] Make a list of all relevant themes we want to track
+        - [X] Look at GDELT documentation
+        - [X] Check most frequently used themes
 - [ ] Write Research Proposal (deadline March 13)
     - [ ] Narrow down RQ based on data availability
     - [ ] Extract relevant overlapping literature from ARW research
