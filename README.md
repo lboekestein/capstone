@@ -28,10 +28,14 @@
 - [ ] Collect data from GDELT Project
     - [X] Make a list of all countries and the ways they can be referred to
         - [X] Crosslist with GDELT naming conventions
-        - [ ] Look at Mueller & Rauh's criteria for article selection
+        - [X] Look at Mueller & Rauh's criteria for article selection
     - [X] Make a list of all relevant themes we want to track
         - [X] Look at GDELT documentation
         - [X] Check most frequently used themes
+    - [ ] Start scraping operation
+        - [ ] Normalize theme %
+        - [ ] Fix theme % being the same for all themes
+        - [ ] Write code to estimate time left of scraping 
 - [ ] Write Research Proposal (deadline March 13)
     - [ ] Narrow down RQ based on data availability
     - [ ] Extract relevant overlapping literature from ARW research
