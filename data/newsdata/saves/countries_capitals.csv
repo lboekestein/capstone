@@ -1,0 +1,237 @@
+FIPS,Country_x,Continent,Region,Capital
+AF,Afghanistan,Asia,South Asia,Kabul
+AL,Albania,Europe,South East Europe,Tirana
+AG,Algeria,Africa,Northern Africa,Algiers
+AQ,American Samoa,Oceania,Pacific,Pago Pago
+AN,Andorra,Europe,South West Europe,Andorra la Vella
+AO,Angola,Africa,Southern Africa,Luanda
+AV,Anguilla,Americas,West Indies,The Valley
+AC,Antigua and Barbuda,Americas,West Indies,Saint John's
+AR,Argentina,Americas,South America,Buenos Aires
+AM,Armenia,Asia,South West Asia,Yerevan
+AA,Aruba,Americas,West Indies,Oranjestad
+AS,Australia,Oceania,Pacific,Canberra
+AU,Austria,Europe,Central Europe,Vienna
+AJ,Azerbaijan,Asia,South West Asia,Baku
+BF,"Bahamas, The",Americas,West Indies,Nassau
+BA,Bahrain,Asia,South West Asia,Manama
+BG,Bangladesh,Asia,South Asia,Dhaka
+BB,Barbados,Americas,West Indies,Bridgetown
+BO,Belarus,Europe,Eastern Europe,Minsk
+BE,Belgium,Europe,Western Europe,Brussels
+BH,Belize,Americas,Central America,Belmopan
+BN,Benin,Africa,Western Africa,Porto-Novo
+BD,Bermuda,Americas,West Indies,Hamilton
+BT,Bhutan,Asia,South Asia,Thimphu
+BL,Bolivia,Americas,South America,La Paz / Sucre
+BK,Bosnia-Herzegovina,Europe,South East Europe,Sarajevo
+BC,Botswana,Africa,Southern Africa,Gaborone
+BR,Brazil,Americas,South America,Brasilia
+VI,British Virgin Islands,Americas,West Indies,Road Town
+BX,Brunei,Asia,South East Asia,Bandar Seri Begawan
+BU,Bulgaria,Europe,South East Europe,Sofia
+UV,Burkina Faso,Africa,Western Africa,Ouagadougou
+BY,Burundi,Africa,Central Africa,Bujumbura
+CB,Cambodia,Asia,South East Asia,Phnom Penh
+CM,Cameroon,Africa,Western Africa,Yaounde
+CA,Canada,Americas,North America,Ottawa
+CV,Cape Verde,Africa,Western Africa,Praia
+CJ,Cayman Islands,Americas,West Indies,George Town
+CT,Central African Republic ,Africa,Central Africa,Bangui
+CD,Chad,Africa,Central Africa,N'Djamena
+CI,Chile,Americas,South America,Santiago
+CH,China,Asia,East Asia,Beijing
+KT,Christmas Island,Asia,South East Asia,The Settlement
+CK,Cocos Keeling Islands,Asia,South East Asia,West Island
+CO,Colombia,Americas,South America,Bogota
+CN,Comoros,Africa,Indian Ocean,Moroni
+CF,Congo,Africa,Central Africa,Brazzaville
+CW,Cook Islands,Oceania,Pacific,Avarua
+CS,Costa Rica,Americas,Central America,San Jose
+IV,Cote dIvoire,Africa,Western Africa,Yamoussoukro
+HR,Croatia,Europe,South East Europe,Zagreb
+CU,Cuba,Americas,West Indies,Havana
+CY,Cyprus,Asia,South West Asia,Nicosia
+EZ,Czech Republic,Europe,Central Europe,Prague
+LO,Slovakia,Europe,Central Europe,Bratislava
+CG,Democratic Republic of the Congo,Africa,Central Africa,Kinshasa
+DA,Denmark,Europe,Northern Europe,Copenhagen
+DJ,Djibouti,Africa,Eastern Africa,Djibouti
+DO,Dominica,Americas,West Indies,Roseau
+DR,Dominican Republic,Americas,West Indies,Santo Domingo
+EC,Ecuador,Americas,South America,Quito
+EG,Egypt,Africa,Northern Africa,Cairo
+ES,El Salvador,Americas,Central America,San Salvador
+GV,Equatorial Guinea,Africa,Western Africa,Conakry
+EK,Equatorial Guinea,Africa,Western Africa,Malabo
+ER,Eritrea,Africa,Eastern Africa,Asmara
+EN,Estonia,Europe,Eastern Europe,Tallinn
+ET,Ethiopia,Africa,Eastern Africa,Addis Ababa
+FK,Falkland Islands Islas Malvinas,,,Stanley
+FO,Faroe Islands,Europe,Northern Europe,Torshavn
+FJ,Fiji,Oceania,Pacific,Suva
+FI,Finland,Europe,Northern Europe,Helsinki
+FR,France,Europe,Western Europe,Paris
+FG,French Guiana,Americas,South America,Cayenne
+FP,French Polynesia,Oceania,Pacific,Papeete
+GB,Gabon,Africa,Western Africa,Libreville
+GA,Gambia,Africa,Western Africa,Banjul
+GZ,Gaza Strip,Asia,South West Asia,Rafah
+GG,Georgia,Asia,South West Asia,T'bilisi
+GM,Germany,Europe,Western Europe,Berlin
+GH,Ghana,Africa,Western Africa,Accra
+GI,Gibraltar,Europe,South West Europe,Gibraltar
+GR,Greece,Europe,South East Europe,Athens
+GL,Greenland,Americas,North America,Nuuk (Godthab)
+GJ,Grenada,Americas,West Indies,Saint George's
+GP,Guadeloupe,Americas,West Indies,Basse-Terre
+GQ,Guam,Oceania,Pacific,Hagatna (Agana)
+GT,Guatemala,Americas,Central America,Guatemala
+GK,Guernsey,Europe,Western Europe,Saint Peter Port
+PU,Guinea-Bissau,Africa,Western Africa,Bissau
+GY,Guyana,Americas,South America,Georgetown
+HA,Haiti,Americas,West Indies,Port-au-Prince
+HO,Honduras,Americas,Central America,Tegucigalpa
+HK,Hong Kong,Asia,East Asia,Hong Kong
+HU,Hungary,Europe,Central Europe,Budapest
+IC,Iceland,Europe,Northern Europe,Reykjavik
+IN,India,Asia,South Asia,New Delhi
+ID,Indonesia,Asia,South East Asia,Jakarta
+IR,Iran,Asia,South West Asia,Tehran
+IZ,Iraq,Asia,South West Asia,Baghdad
+EI,Ireland,Europe,Western Europe,Dublin
+IM,Isle of Man,Europe,Western Europe,Douglas
+IS,Israel,Asia,South West Asia,Jerusalem
+IT,Italy,Europe,Southern Europe,Rome
+JM,Jamaica,Americas,West Indies,Kingston
+JA,Japan,Asia,East Asia,Tokyo
+JE,Jersey,Europe,Western Europe,Saint Helier
+JO,Jordan,Asia,South West Asia,Amman
+KZ,Kazakhstan,Asia,Central Asia,Astana (Akmola)
+KE,Kenya,Africa,Eastern Africa,Nairobi
+KR,Kiribati,Oceania,Pacific,Tarawa
+KU,Kuwait,Asia,South West Asia,Kuwait
+KG,Kyrgyzstan,Asia,Central Asia,Bishkek
+LA,Laos,Asia,South East Asia,Vientiane
+LG,Latvia,Europe,Eastern Europe,Riga
+LE,Lebanon,Asia,South West Asia,Beirut
+LT,Lesotho,Africa,Southern Africa,Maseru
+LI,Liberia,Africa,Western Africa,Monrovia
+LY,Libya,Africa,Northern Africa,Tripoli
+LS,Liechtenstein,Europe,Central Europe,Vaduz
+LH,Lithuania,Europe,Eastern Europe,Vilnius
+LU,Luxembourg,Europe,Western Europe,Luxembourg
+MC,Macau,Asia,East Asia,Macau
+MK,Macedonia,Europe,South East Europe,Skopje
+MA,Madagascar,Africa,Indian Ocean,Antananarivo
+MI,Malawi,Africa,Southern Africa,Lilongwe
+MY,Malaysia,Asia,South East Asia,Kuala Lumpur
+MV,Maldives,Asia,South Asia,Male (Maale)
+ML,Mali,Africa,Western Africa,Bamako
+MT,Malta,Europe,Southern Europe,Valletta
+RM,Marshall Islands,Oceania,Pacific,Majuro
+MB,Martinique,Americas,West Indies,Fort-de-France
+MR,Mauritania,Africa,Western Africa,Nouakchott
+MP,Mauritius,Africa,Indian Ocean,Port Louis
+MF,Mayotte,Africa,Indian Ocean,Mamoutzou
+MX,Mexico,Americas,Central America,Mexico
+FM,Micronesia,Oceania,Pacific,Palikir
+MD,Moldova,Europe,Eastern Europe,Chisinau
+MN,Monaco,Europe,Western Europe,Monaco
+MG,Mongolia,Asia,Northern Asia,Ulaanbaatar
+MJ,Montenegro,Europe,South East Europe,Podgorica
+MH,Montserrat,Americas,West Indies,Plymouth
+MO,Morocco,Africa,Northern Africa,Rabat
+MZ,Mozambique,Africa,Southern Africa,Maputo
+BM,Myanmar,Asia,South East Asia,Rangoon (Yangon)
+WA,Namibia,Africa,Southern Africa,Windhoek
+NR,Nauru,Oceania,Pacific,no official capital
+NP,Nepal,Asia,South Asia,Kathmandu
+NL,Netherlands,Europe,Western Europe,Amsterdam
+NT,Netherlands Antilles,Americas,West Indies,Willemstad
+NC,New Caledonia,Oceania,Pacific,Noumea
+NZ,New Zealand,Oceania,Pacific,Wellington
+NU,Nicaragua,Americas,Central America,Managua
+NG,Niger,Africa,Western Africa,Niamey
+NI,Nigeria,Africa,Western Africa,Abuja
+NE,Niue,Oceania,Pacific,Alofi
+NF,Norfolk Island,Oceania,Pacific,Kingston
+KN,North Korea,Asia,East Asia,P'yongyang
+CQ,Northern Mariana Islands ,Oceania,Pacific,Saipan
+NO,Norway,Europe,Northern Europe,Oslo
+MU,Oman,Asia,South West Asia,Muscat
+PK,Pakistan,Asia,South Asia,Islamabad
+PS,Palau,Oceania,Pacific,Koror
+PM,Panama,Americas,Central America,Panama
+PP,Papua New Guinea,Oceania,Pacific,Port Moresby
+PA,Paraguay,Americas,South America,Asuncion
+PE,Peru,Americas,South America,Lima
+RP,Philippines,Asia,South East Asia,Manila
+PC,Pitcairn Islands,Oceania,Pacific,Adamstown
+PL,Poland,Europe,Eastern Europe,Warsaw
+PO,Portugal,Europe,South West Europe,Lisbon
+RQ,Puerto Rico,Americas,West Indies,San Juan
+QA,Qatar,Asia,South West Asia,Doha
+RE,Reunion,Africa,Indian Ocean,Saint-Denis
+RO,Romania,Europe,South East Europe,Bucharest
+RS,Russia,Asia,Northern Asia,Moscow
+RW,Rwanda,Africa,Central Africa,Kigali
+SC,Saint Kitts and Nevis,Americas,West Indies,Basseterre
+ST,Saint Lucia,Americas,West Indies,Castries
+SB,Saint Pierre and Miquelon ,Americas,North America,Saint-Pierre
+VC,Saint Vincent and the Grenadines,Americas,West Indies,Kingstown
+WS,Samoa,Oceania,Pacific,Apia
+SM,San Marino,Europe,Southern Europe,San Marino
+TP,Sao Tome and Principe,Africa,Western Africa,Sao Tome
+SA,Saudi Arabia,Asia,South West Asia,Riyadh
+SG,Senegal,Africa,Western Africa,Dakar
+RI,Serbia,Europe,South East Europe,Belgrade
+SE,Seychelles,Africa,Indian Ocean,Victoria
+SL,Sierra Leone,Africa,Western Africa,Freetown
+SN,Singapore,Asia,South East Asia,Singapore
+SI,Slovenia,Europe,South East Europe,Ljubljana
+BP,Solomon Islands,Oceania,Pacific,Honiara
+SO,Somalia,Africa,Eastern Africa,Mogadishu
+SF,South Africa,Africa,Southern Africa,Pretoria
+KS,South Korea,Asia,East Asia,Seoul
+OD,South Sudan,Africa,Northern Africa,Juba
+SP,Spain,Europe,South West Europe,Madrid
+CE,Sri Lanka,Asia,South Asia,Colombo
+SU,Sudan,Africa,Northern Africa,Khartoum
+NS,Suriname,Americas,South America,Paramaribo
+SV,Svalbard,Europe,Northern Europe,Longyearbyen
+WZ,Swaziland,Africa,Southern Africa,Mbabane
+SW,Sweden,Europe,Northern Europe,Stockholm
+SZ,Switzerland,Europe,Central Europe,Bern
+SY,Syria,Asia,South West Asia,Damascus
+TW,Taiwan,Asia,East Asia,Taipei
+TI,Tajikistan,Asia,Central Asia,Dushanbe
+TZ,Tanzania,Africa,Eastern Africa,Dar es Salaam
+TH,Thailand,Asia,South East Asia,Bangkok
+TO,Togo,Africa,Western Africa,Lome
+TL,Tokelau,Oceania,Pacific,none
+TN,Tonga,Oceania,Pacific,Nuku'alofa
+TD,Trinidad and Tobago,Americas,West Indies,Port-of-Spain
+TS,Tunisia,Africa,Northern Africa,Tunis
+TU,Turkey,Asia,South West Asia,Ankara
+TX,Turkmenistan,Asia,Central Asia,Ashgabat
+TK,Turks and Caicos Islands ,Americas,West Indies,Grand Turk
+TV,Tuvalu,Oceania,Pacific,Funafuti
+UG,Uganda,Africa,Eastern Africa,Kampala
+UP,Ukraine,Europe,Eastern Europe,Kiev
+AE,United Arab Emirates,Asia,South West Asia,Abu Dhabi
+UK,United Kingdom,Europe,Western Europe,London
+US,United States,Americas,North America,"Washington, DC"
+UY,Uruguay,Americas,South America,Montevideo
+UZ,Uzbekistan,Asia,Central Asia,Tashkent (Toshkent)
+NH,Vanuatu,Oceania,Pacific,Port-Vila
+VT,Vatican City,Europe,Southern Europe,Vatican City
+VE,Venezuela,Americas,South America,Caracas
+VM,"Vietnam, Democratic Republic of",Asia,South East Asia,Hanoi
+VQ,Virgin Islands,Americas,West Indies,Charlotte Amalie
+WF,Wallis and Futuna,Oceania,Pacific,Mata-Utu (on Ile Uvea)
+WE,West Bank,Asia,South West Asia,Ramallah
+WI,Western Sahara,Africa,Northern Africa,none
+YM,Yemen,Asia,South West Asia,Sanaa
+ZA,Zambia,Africa,Southern Africa,Lusaka
+ZI,Zimbabwe,Africa,Southern Africa,Harare
