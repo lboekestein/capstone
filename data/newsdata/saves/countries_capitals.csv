@@ -1,4 +1,4 @@
-FIPS,Country_x,Continent,Region,Capital
+FIPS,Country,Continent,Region,Capital
 AF,Afghanistan,Asia,South Asia,Kabul
 AL,Albania,Europe,South East Europe,Tirana
 AG,Algeria,Africa,Northern Africa,Algiers
@@ -13,7 +13,7 @@ AA,Aruba,Americas,West Indies,Oranjestad
 AS,Australia,Oceania,Pacific,Canberra
 AU,Austria,Europe,Central Europe,Vienna
 AJ,Azerbaijan,Asia,South West Asia,Baku
-BF,"Bahamas, The",Americas,West Indies,Nassau
+BF,"The Bahamas",Americas,West Indies,Nassau
 BA,Bahrain,Asia,South West Asia,Manama
 BG,Bangladesh,Asia,South Asia,Dhaka
 BB,Barbados,Americas,West Indies,Bridgetown
@@ -23,7 +23,7 @@ BH,Belize,Americas,Central America,Belmopan
 BN,Benin,Africa,Western Africa,Porto-Novo
 BD,Bermuda,Americas,West Indies,Hamilton
 BT,Bhutan,Asia,South Asia,Thimphu
-BL,Bolivia,Americas,South America,La Paz / Sucre
+BL,Bolivia,Americas,South America,La Paz
 BK,Bosnia-Herzegovina,Europe,South East Europe,Sarajevo
 BC,Botswana,Africa,Southern Africa,Gaborone
 BR,Brazil,Americas,South America,Brasilia
@@ -143,9 +143,9 @@ MJ,Montenegro,Europe,South East Europe,Podgorica
 MH,Montserrat,Americas,West Indies,Plymouth
 MO,Morocco,Africa,Northern Africa,Rabat
 MZ,Mozambique,Africa,Southern Africa,Maputo
-BM,Myanmar,Asia,South East Asia,Rangoon (Yangon)
+BM,Myanmar,Asia,South East Asia,Rangoon
 WA,Namibia,Africa,Southern Africa,Windhoek
-NR,Nauru,Oceania,Pacific,no official capital
+NR,Nauru,Oceania,Pacific,none
 NP,Nepal,Asia,South Asia,Kathmandu
 NL,Netherlands,Europe,Western Europe,Amsterdam
 NT,Netherlands Antilles,Americas,West Indies,Willemstad
@@ -215,7 +215,7 @@ TD,Trinidad and Tobago,Americas,West Indies,Port-of-Spain
 TS,Tunisia,Africa,Northern Africa,Tunis
 TU,Turkey,Asia,South West Asia,Ankara
 TX,Turkmenistan,Asia,Central Asia,Ashgabat
-TK,Turks and Caicos Islands ,Americas,West Indies,Grand Turk
+TK,Turks and Caicos Islands,Americas,West Indies,Grand Turk
 TV,Tuvalu,Oceania,Pacific,Funafuti
 UG,Uganda,Africa,Eastern Africa,Kampala
 UP,Ukraine,Europe,Eastern Europe,Kiev
@@ -223,13 +223,13 @@ AE,United Arab Emirates,Asia,South West Asia,Abu Dhabi
 UK,United Kingdom,Europe,Western Europe,London
 US,United States,Americas,North America,"Washington, DC"
 UY,Uruguay,Americas,South America,Montevideo
-UZ,Uzbekistan,Asia,Central Asia,Tashkent (Toshkent)
+UZ,Uzbekistan,Asia,Central Asia,Tashkent
 NH,Vanuatu,Oceania,Pacific,Port-Vila
 VT,Vatican City,Europe,Southern Europe,Vatican City
 VE,Venezuela,Americas,South America,Caracas
 VM,"Vietnam, Democratic Republic of",Asia,South East Asia,Hanoi
 VQ,Virgin Islands,Americas,West Indies,Charlotte Amalie
-WF,Wallis and Futuna,Oceania,Pacific,Mata-Utu (on Ile Uvea)
+WF,Wallis and Futuna,Oceania,Pacific,Mata-Utu
 WE,West Bank,Asia,South West Asia,Ramallah
 WI,Western Sahara,Africa,Northern Africa,none
 YM,Yemen,Asia,South West Asia,Sanaa

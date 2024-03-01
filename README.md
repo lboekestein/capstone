@@ -33,7 +33,7 @@
         - [X] Look at GDELT documentation
         - [X] Check most frequently used themes
     - [ ] Start scraping operation
-        - [ ] Normalize theme %
+        - [X] Normalize theme %
         - [ ] Fix theme % being the same for all themes
         - [ ] Write code to estimate time left of scraping 
 - [ ] Write Research Proposal (deadline March 13)
