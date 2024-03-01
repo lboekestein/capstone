@@ -33,9 +33,12 @@
         - [X] Look at GDELT documentation
         - [X] Check most frequently used themes
     - [ ] Start scraping operation
-        - [X] Normalize theme %
-        - [ ] Fix theme % being the same for all themes
-        - [ ] Write code to estimate time left of scraping 
+        - [X] Scrape % for all themes
+        - [X] Write code to estimate time left of scraping 
+        - [ ] Make code to retrieve data in chunks
+        - [ ] Test with first chunk
+        - [ ] Compress chunk
+        - [ ] Make code to uncompress and combine chunks
 - [ ] Write Research Proposal (deadline March 13)
     - [ ] Narrow down RQ based on data availability
     - [ ] Extract relevant overlapping literature from ARW research
