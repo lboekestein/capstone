@@ -1,0 +1,11 @@
+,Theme,Passed,URL
+0,TAX_FNCACT_PRINCIPAL,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_FNCACT_PRINCIPAL&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+1,WB_164_MODES_OF_TRANSPORT,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_164_MODES_OF_TRANSPORT&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+2,TAX_FNCACT_LADY,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_FNCACT_LADY&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+3,TAX_DISEASE_EPIDEMIC,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_DISEASE_EPIDEMIC&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+4,ECON_CENTRALBANK,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:ECON_CENTRALBANK&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+5,WB_336_NON_BANK_FINANCIAL_INSTITUTIONS,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_336_NON_BANK_FINANCIAL_INSTITUTIONS&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+6,WB_1324_EMERGENCY_MEDICAL_SERVICES,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_1324_EMERGENCY_MEDICAL_SERVICES&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+7,ECON_UNIONS,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:ECON_UNIONS&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+8,WB_713_PUBLIC_FINANCE,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_713_PUBLIC_FINANCE&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+9,ECON_INTEREST_RATES,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:ECON_INTEREST_RATES&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes

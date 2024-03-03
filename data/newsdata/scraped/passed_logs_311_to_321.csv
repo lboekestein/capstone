@@ -1,0 +1,11 @@
+,Theme,Passed,URL
+0,HEALTH_VACCINATION,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:HEALTH_VACCINATION&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+1,WB_2019_ANTI_CORRUPTION_LEGISLATION,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_2019_ANTI_CORRUPTION_LEGISLATION&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+2,TAX_FNCACT_BABY,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_FNCACT_BABY&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+3,TAX_ETHNICITY_ITALIAN,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_ETHNICITY_ITALIAN&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+4,TAX_WORLDLANGUAGES_ITALIAN,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_WORLDLANGUAGES_ITALIAN&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+5,TAX_FNCACT_SOLDIERS,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_FNCACT_SOLDIERS&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+6,UNGP_JOB_OPPORTUNITIES_EMPLOYMENT,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:UNGP_JOB_OPPORTUNITIES_EMPLOYMENT&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+7,POVERTY,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:POVERTY&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+8,WB_1160_SHOCKS_AND_VULNERABILITY,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_1160_SHOCKS_AND_VULNERABILITY&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+9,SOC_POINTSOFINTEREST_HIGH_SCHOOL,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:SOC_POINTSOFINTEREST_HIGH_SCHOOL&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes

@@ -1,0 +1,11 @@
+,Theme,Passed,URL
+0,TAX_FNCACT_JOURNALIST,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TAX_FNCACT_JOURNALIST&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+1,RESIGNATION,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:RESIGNATION&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+2,DISASTER_FIRE,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:DISASTER_FIRE&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+3,WB_328_FINANCIAL_INTEGRITY,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_328_FINANCIAL_INTEGRITY&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+4,RETIREMENT,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:RETIREMENT&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+5,WB_168_ROADS_AND_HIGHWAYS,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_168_ROADS_AND_HIGHWAYS&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+6,TRANSPARENCY,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:TRANSPARENCY&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+7,WB_1809_HIGHWAYS,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:WB_1809_HIGHWAYS&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+8,EPU_POLICY_LEGISLATION,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:EPU_POLICY_LEGISLATION&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
+9,DISABILITY,False,https://api.gdeltproject.org/api/v2/doc/doc?query=%20theme:DISABILITY&mode=TimelineVol&timelinesmooth=0&startdatetime=20170101010000&enddatetime=20240301010000&format=html&timezoom=yes
