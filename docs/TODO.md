@@ -1,50 +1,99 @@
-# TODO's
+# Project planning
 
-### Current TODO's
+## Overview of Deadlines
 
-- [ ] Collect data from GDELT Project
-    - [X] Make a list of all countries and the ways they can be referred to
+| Date  | What | Completed |
+|---|---|---|
+| March 13  | Research Proposal | Yes |
+| April 10(?) | Writing Update  |   |
+| May 8 | Draft of Thesis  |   |
+| May 29 | Final Thesis |   |
+
+## Timeline of project
+
+### Week 5 (March 4 - March 10)
+
+- [X] Make a list of all countries and the ways they can be referred to
         - [X] Crosslist with GDELT naming conventions
         - [X] Look at Mueller & Rauh's criteria for article selection
-    - [X] Make a list of all relevant themes we want to track
-        - [X] Look at GDELT documentation
-        - [X] Check most frequently used themes
-    - [ ] Start scraping operation
-        - [X] Scrape % for all themes
-        - [X] Write code to estimate time left of scraping 
-        - [ ] Make code to retrieve data in chunks
-        - [ ] Test with first chunk
-        - [ ] Compress chunk
-        - [ ] Make code to uncompress and combine chunks
-- [ ] Write Research Proposal (deadline March 13)
-    - [ ] Narrow down RQ based on data availability
-    - [ ] Extract relevant overlapping literature from ARW research
-    - [ ] Narrow down methods and write methods section
+- [X] Make a list of all relevant themes we want to track
+    - [X] Look at GDELT documentation
+    - [X] Check most frequently used themes
+- [X] Test scraping operation
+    - [X] Scrape % for all themes
+    - [X] Write code to estimate time left of scraping 
+    - [X] Make code to retrieve data in chunks
+    - [X] Test with first chunk
+    - [X] Compress chunk
+    - [X] Make code to uncompress and combine chunks
+- [X] Scrape country to country coverage
 
-### Future TODO's
+### Week 6 (March 11 - March 17)
+#### DEADLINE: Research Proposal
 
-- [ ] Collect data from UCDP to use as predictors
-    - [ ] Make list of all relevant predictors
+- [X] Write Research Proposal (deadline March 13)
+    - [X] Narrow down RQ based on data availability
+    - [X] Extract relevant overlapping literature from ARW research
+    - [X] Narrow down methods and write methods section
+- [ ] Explore GDELT country to country coverage
+    - [ ] Evaluate which countries receive the most world-wide coverage
+    - [ ] Evaluate which countries talk about what countries the most
+        - [ ] Compute closeness score on the basis of this?
+        - [ ] BONUS: make graph with geopandas
+- [ ] Retrieve data from ACLED
+    - [ ] Evaluate cases of violence
+    - [ ] Evaluate presence of hard-cases
+    - [ ] Evaluate relevant literature
+
+### Week 7 (March 18 - March 24)
+
+- [ ] Decide on country/countries to case study
+    - [ ] Evaluate world-wide coverage
+- [ ] Scrape data from GDELT
+    - [ ] Make list of all relevant themes
     - [ ] Narrow down timeframe
-    - [ ] Scrape all data from UCDP API
-- [ ] Distinguish between local, regional and global news?
-    - [ ] Look into literature for measures of closeness to classify regional news
+    - [ ] Scrape all data for selected country from GDELT API
+- [ ] Scrape data from ACLED as features
+    - [ ] History of conflict, amount of cases per month
+- [ ] Combine data
+    - [ ] Merge GDELT and ACLED dataset
+
+### Week 8 (March 25 - March 31)
+
+- [ ] Preprocess data
+    - [ ] Classify coverage into local, regional and global
+        - [ ] Look into literature for measures of closeness to classify regional news
         - [ ] See Schafer paper? Van Atteveldt?
-    - [ ] Aggregate data based on local regional and global news
-- [ ] Narrow down and substantiate relevant themes as predictors
-    - [ ] Look at GDELT documentation
-    - [ ] Check most frequently used themes
-    - [ ] Check literature for relevant features in other prediction models
-    - [ ] See Mueller & Rauh's paper, and [Correlates of War](https://correlatesofwar.org/) projects?
-    - [ ] Make sure predictions are of the same resolutions as Mueller & Rauh's and ViEWS standard
-- [ ] Merge GDELT and UCDP dataset
+    - [ ] Smooth on monthly basis
+    - [ ] Make predictor of monthly change in violence
+    - [ ] Classify hard cases
+
+### Week 9 & 10 (April 1 - April 14)
+#### SOFT DEADLINE: Writing Update
+
 - [ ] Make prediction model
-    - [ ] See replication data from Mueller & Rauh's paper
-    - [ ] Evaluate different machine learning models
+    - [ ] Apply Random forest
+    - [ ] If needed, evaluate other methods
+- [ ] Evaluate model(s)
     - [ ] Compute prediction accuracy
-- [ ] Compare local, regional and global models, and in combination with each other
+    - [ ] Compute prediction difference for local, regional and global
     - [ ] See is there is a statistically significant difference in prediction accuracy (Answer RQ)
-    - [ ] Check correlation and differences between different models
-- [ ] Compare with baseline models (ViEWS, Mueller & Rauh)
-- [ ] Retrieve results, make vizualizations
+    - [ ] Compare with baseline models (ViEWS, Mueller & Rauh)
+
+### Week 11 (April 15 - April 21)
+
+- [ ] Make vizualizations
 - [ ] Start writing process
+    - [ ] Results
+    - [ ] Discussion
+
+### Weeks 12 & 13 (April 22 - May 5)
+#### DEADLINE: Draft of thesis
+
+- [ ] Write draft of thesis
+
+### Weeks 14-16 (May 6 - May 26)
+#### DEADLINE: Final thesis
+
+- [ ] Write final thesis
+

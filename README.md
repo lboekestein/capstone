@@ -10,6 +10,17 @@ The conflict-predicting field has advanced substantially in recent years, and st
 
 _Keywords:_ armed conflict, prediction, machine learning, bias, media
 
+## Timeline of project
+
+| Date  | What | Completed |
+|---|---|---|
+| March 13  | Research Proposal | Yes |
+| April 10(?) | Writing Update  |   |
+| May 8 | Draft of Thesis  |   |
+| May 29 | Final Thesis |   |
+
+For a more detailed timeline and current TODO's, see [here](TODO.md)
+
 ## Information of repository
 
 - The reports of this project can be found in the [reports folder](/reports/).
@@ -17,8 +28,6 @@ _Keywords:_ armed conflict, prediction, machine learning, bias, media
 - For the documentation on the data sources used, see [data sources](Data_sources.md).
 
 - The data used in this project can be found in the [data folder](/data/).
-
-- See [here](TODO.md) for information on the current status of the project and TODO's
 
 ## Methods
 
