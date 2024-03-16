@@ -1,10 +1,12 @@
 # Diversifying Media Sources For The Forecasting Of Armed Conflict: _Avoiding Biases In Violence Prediction Algorithms_
 
-### Capstone project
-#### Author: Luuk Boekestein (AUC), luuk.boekestein@auc.nl
-#### Supervisor: Jelke Bloem (UVA), j.bloem@uva.nl
+
 
 ![World news foreign news coverage](figs/global_news_coverage.png)
+
+
+#### Author: Luuk Boekestein (AUC), luuk.boekestein@auc.nl
+#### Supervisor: Jelke Bloem (UVA), j.bloem@uva.nl
 
 ## Abstract
 
