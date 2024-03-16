@@ -4,6 +4,8 @@
 #### Author: Luuk Boekestein (AUC), luuk.boekestein@auc.nl
 #### Supervisor: Jelke Bloem (UVA), j.bloem@uva.nl
 
+![World news foreign news coverage](figs/global_news_coverage.png)
+
 ## Abstract
 
 The conflict-predicting field has advanced substantially in recent years, and state-of-the-art methods using machine learning are showing promising results. Yet, the field is still limited in its applicability for peacebuilding, due to low interpretability and low accuracy in tricky cases. Some have posed the incorporation of features from the media as a possible solution, due to its ability to provide more complete data and capture early signs of tensions. This has redirected attention in the field to big-data solutions, such as the event and sentiment data provided by the GDELT project. However, the blind application of media-based big data exposes prediction algorithms to biases and misinformation, which could produce dangerously misleading forecasts. Therefore, this paper argues that more attention must be paid to the careful selection of sources, and to substantiate the importance of this, proposes to investigate the relative predictive power of local and global news.
