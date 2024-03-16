@@ -16,6 +16,8 @@ _Keywords:_ armed conflict, prediction, machine learning, bias, media
 
 ## Timeline of project
 
+For a more detailed timeline and current TODO's, see [here](docs/TODO.md)
+
 | Date  | What | Completed |
 |---|---|---|
 | March 13  | Research Proposal | Yes |
@@ -23,7 +25,6 @@ _Keywords:_ armed conflict, prediction, machine learning, bias, media
 | May 8 | Draft of Thesis  |   |
 | May 29 | Final Thesis |   |
 
-For a more detailed timeline and current TODO's, see [here](docs/TODO.md)
 
 ## Information of repository
 
@@ -32,6 +33,8 @@ For a more detailed timeline and current TODO's, see [here](docs/TODO.md)
 - For the documentation on the data sources used, see [data sources](docs/Data_sources.md).
 
 - The data used in this project can be found in the [data folder](/data/).
+
+- For vizualizations of the data used, see [vizualizations](docs/vizualizations.md).
 
 ## Methods
 
