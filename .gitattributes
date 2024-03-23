@@ -6,3 +6,10 @@ data/ACLED[[:space:]]data/ filter=lfs diff=lfs merge=lfs -text
 data/ACLED[[:space:]]data/Africa_1997-2024_Mar08.xlsx filter=lfs diff=lfs merge=lfs -text
 data/ACLED[[:space:]]data/Asia-Pacific_2018-2024_Mar08.xlsx filter=lfs diff=lfs merge=lfs -text
 data/ACLED[[:space:]]data/MiddleEast_2015-2024_Mar08.xlsx filter=lfs diff=lfs merge=lfs -text
+data/ACLED filter=lfs diff=lfs merge=lfs -text
+data/ACLED/Africa.csv filter=lfs diff=lfs merge=lfs -text
+data/ACLED/AsiaPacific.csv filter=lfs diff=lfs merge=lfs -text
+data/ACLED/MiddleEast.csv filter=lfs diff=lfs merge=lfs -text
+data/ACLED/USACanada.csv filter=lfs diff=lfs merge=lfs -text
+data/ACLED/LatinAmerica.csv filter=lfs diff=lfs merge=lfs -text
+data/ACLED/EuropeCentralAsia.csv filter=lfs diff=lfs merge=lfs -text

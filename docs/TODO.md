@@ -35,18 +35,18 @@
     - [X] Narrow down RQ based on data availability
     - [X] Extract relevant overlapping literature from ARW research
     - [X] Narrow down methods and write methods section
-- [ ] Explore GDELT country to country coverage
-    - [ ] Evaluate which countries receive the most world-wide coverage
-    - [ ] Evaluate which countries talk about what countries the most
+- [X] Explore GDELT country to country coverage
+    - [X] Evaluate which countries receive the most world-wide coverage
+    - [X] Evaluate which countries talk about what countries the most
         - [ ] Compute closeness score on the basis of this?
-        - [ ] BONUS: make graph with geopandas
-- [ ] Retrieve data from ACLED
-    - [ ] Evaluate cases of violence
-    - [ ] Evaluate presence of hard-cases
-    - [ ] Evaluate relevant literature
+        - [X] BONUS: make graph with geopandas
 
 ### Week 7 (March 18 - March 24)
 
+- [X] Retrieve data from ACLED
+    - [X] Evaluate cases of violence
+    - [ ] Evaluate presence of hard-cases
+    - [ ] Evaluate relevant literature
 - [ ] Decide on country/countries to case study
     - [ ] Evaluate world-wide coverage
 - [ ] Scrape data from GDELT
