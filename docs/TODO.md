@@ -45,7 +45,7 @@
 
 - [X] Retrieve data from ACLED
     - [X] Evaluate cases of violence
-    - [ ] Evaluate presence of hard-cases
+    - [X] Evaluate presence of hard-cases
     - [ ] Evaluate relevant literature
 - [ ] Decide on country/countries to case study
     - [ ] Evaluate world-wide coverage
