@@ -1,0 +1,237 @@
+FIPS,Query
+AF,(Afghanistan OR Kabul)
+AL,(Albania OR Tirana)
+AG,(Algeria OR Algiers)
+AQ,"(""American Samoa"" OR ""Pago Pago"")"
+AN,"(Andorra OR ""Andorra la Vella"")"
+AO,(Angola OR Luanda)
+AV,"(Anguilla OR ""The Valley"")"
+AC,"(""Antigua and Barbuda"" OR ""Saint John's"")"
+AR,"(Argentina OR ""Buenos Aires"")"
+AM,(Armenia OR Yerevan)
+AA,(Aruba OR Oranjestad)
+AS,(Australia OR Canberra)
+AU,(Austria OR Vienna)
+AJ,(Azerbaijan OR Baku)
+BF,"(""The Bahamas"" OR Nassau)"
+BA,(Bahrain OR Manama)
+BG,(Bangladesh OR Dhaka)
+BB,(Barbados OR Bridgetown)
+BO,(Belarus OR Minsk)
+BE,(Belgium OR Brussels)
+BH,(Belize OR Belmopan)
+BN,"(Benin OR ""Porto-Novo"")"
+BD,(Bermuda OR Hamilton)
+BT,(Bhutan OR Thimphu)
+BL,"(Bolivia OR ""La Paz"")"
+BK,"(""Bosnia-Herzegovina"" OR Sarajevo)"
+BC,(Botswana OR Gaborone)
+BR,(Brazil OR Brasilia)
+VI,"(""British Virgin Islands"" OR ""Road Town"")"
+BX,"(Brunei OR ""Bandar Seri Begawan"")"
+BU,(Bulgaria OR Sofia)
+UV,"(""Burkina Faso"" OR Ouagadougou)"
+BY,(Burundi OR Bujumbura)
+CB,"(Cambodia OR ""Phnom Penh"")"
+CM,(Cameroon OR Yaounde)
+CA,(Canada OR Ottawa)
+CV,"(""Cape Verde"" OR Praia)"
+CJ,"(""Cayman Islands"" OR ""George Town"")"
+CT,"(""Central African Republic "" OR Bangui)"
+CD,(Chad OR N'Djamena)
+CI,(Chile OR Santiago)
+CH,(China OR Beijing)
+KT,"(""Christmas Island"" OR ""The Settlement"")"
+CK,"(""Cocos Keeling Islands"" OR ""West Island"")"
+CO,(Colombia OR Bogota)
+CN,(Comoros OR Moroni)
+CF,(Congo OR Brazzaville)
+CW,"(""Cook Islands"" OR Avarua)"
+CS,"(""Costa Rica"" OR ""San Jose"")"
+IV,"(""Cote dIvoire"" OR Yamoussoukro)"
+HR,(Croatia OR Zagreb)
+CU,(Cuba OR Havana)
+CY,(Cyprus OR Nicosia)
+EZ,"(""Czech Republic"" OR Prague)"
+LO,(Slovakia OR Bratislava)
+CG,"(""Democratic Republic of the Congo"" OR Kinshasa)"
+DA,(Denmark OR Copenhagen)
+DJ,(Djibouti OR Djibouti)
+DO,(Dominica OR Roseau)
+DR,"(""Dominican Republic"" OR ""Santo Domingo"")"
+EC,(Ecuador OR Quito)
+EG,(Egypt OR Cairo)
+ES,"(""El Salvador"" OR ""San Salvador"")"
+GV,"(""Equatorial Guinea"" OR Conakry)"
+EK,"(""Equatorial Guinea"" OR Malabo)"
+ER,(Eritrea OR Asmara)
+EN,(Estonia OR Tallinn)
+ET,"(Ethiopia OR ""Addis Ababa"")"
+FK,"(""Falkland Islands Islas Malvinas"" OR Stanley)"
+FO,"(""Faroe Islands"" OR Torshavn)"
+FJ,(Fiji OR Suva)
+FI,(Finland OR Helsinki)
+FR,(France OR Paris)
+FG,"(""French Guiana"" OR Cayenne)"
+FP,"(""French Polynesia"" OR Papeete)"
+GB,(Gabon OR Libreville)
+GA,(Gambia OR Banjul)
+GZ,"(""Gaza Strip"" OR Rafah)"
+GG,(Georgia OR T'bilisi)
+GM,(Germany OR Berlin)
+GH,(Ghana OR Accra)
+GI,(Gibraltar OR Gibraltar)
+GR,(Greece OR Athens)
+GL,"(Greenland OR ""Nuuk (Godthab)"")"
+GJ,"(Grenada OR ""Saint George's"")"
+GP,"(Guadeloupe OR ""Basse-Terre"")"
+GQ,"(Guam OR ""Hagatna (Agana)"")"
+GT,(Guatemala OR Guatemala)
+GK,"(Guernsey OR ""Saint Peter Port"")"
+PU,"(""Guinea-Bissau"" OR Bissau)"
+GY,(Guyana OR Georgetown)
+HA,"(Haiti OR ""Port-au-Prince"")"
+HO,(Honduras OR Tegucigalpa)
+HK,"(""Hong Kong"" OR ""Hong Kong"")"
+HU,(Hungary OR Budapest)
+IC,(Iceland OR Reykjavik)
+IN,"(India OR ""New Delhi"")"
+ID,(Indonesia OR Jakarta)
+IR,(Iran OR Tehran)
+IZ,(Iraq OR Baghdad)
+EI,(Ireland OR Dublin)
+IM,"(""Isle of Man"" OR Douglas)"
+IS,(Israel OR Jerusalem)
+IT,(Italy OR Rome)
+JM,(Jamaica OR Kingston)
+JA,(Japan OR Tokyo)
+JE,"(Jersey OR ""Saint Helier"")"
+JO,(Jordan OR Amman)
+KZ,"(Kazakhstan OR ""Astana (Akmola)"")"
+KE,(Kenya OR Nairobi)
+KR,(Kiribati OR Tarawa)
+KU,(Kuwait OR Kuwait)
+KG,(Kyrgyzstan OR Bishkek)
+LA,(Laos OR Vientiane)
+LG,(Latvia OR Riga)
+LE,(Lebanon OR Beirut)
+LT,(Lesotho OR Maseru)
+LI,(Liberia OR Monrovia)
+LY,(Libya OR Tripoli)
+LS,(Liechtenstein OR Vaduz)
+LH,(Lithuania OR Vilnius)
+LU,(Luxembourg OR Luxembourg)
+MC,(Macau OR Macau)
+MK,(Macedonia OR Skopje)
+MA,(Madagascar OR Antananarivo)
+MI,(Malawi OR Lilongwe)
+MY,"(Malaysia OR ""Kuala Lumpur"")"
+MV,"(Maldives OR ""Male (Maale)"")"
+ML,(Mali OR Bamako)
+MT,(Malta OR Valletta)
+RM,"(""Marshall Islands"" OR Majuro)"
+MB,"(Martinique OR ""Fort-de-France"")"
+MR,(Mauritania OR Nouakchott)
+MP,"(Mauritius OR ""Port Louis"")"
+MF,(Mayotte OR Mamoutzou)
+MX,(Mexico OR Mexico)
+FM,(Micronesia OR Palikir)
+MD,(Moldova OR Chisinau)
+MN,(Monaco OR Monaco)
+MG,(Mongolia OR Ulaanbaatar)
+MJ,(Montenegro OR Podgorica)
+MH,(Montserrat OR Plymouth)
+MO,(Morocco OR Rabat)
+MZ,(Mozambique OR Maputo)
+BM,(Myanmar OR Rangoon)
+WA,(Namibia OR Windhoek)
+NR,Nauru
+NP,(Nepal OR Kathmandu)
+NL,(Netherlands OR Amsterdam)
+NT,"(""Netherlands Antilles"" OR Willemstad)"
+NC,"(""New Caledonia"" OR Noumea)"
+NZ,"(""New Zealand"" OR Wellington)"
+NU,(Nicaragua OR Managua)
+NG,(Niger OR Niamey)
+NI,(Nigeria OR Abuja)
+NE,(Niue OR Alofi)
+NF,"(""Norfolk Island"" OR Kingston)"
+KN,"(""North Korea"" OR P'yongyang)"
+CQ,"(""Northern Mariana Islands "" OR Saipan)"
+NO,(Norway OR Oslo)
+MU,(Oman OR Muscat)
+PK,(Pakistan OR Islamabad)
+PS,(Palau OR Koror)
+PM,(Panama OR Panama)
+PP,"(""Papua New Guinea"" OR ""Port Moresby"")"
+PA,(Paraguay OR Asuncion)
+PE,(Peru OR Lima)
+RP,(Philippines OR Manila)
+PC,"(""Pitcairn Islands"" OR Adamstown)"
+PL,(Poland OR Warsaw)
+PO,(Portugal OR Lisbon)
+RQ,"(""Puerto Rico"" OR ""San Juan"")"
+QA,(Qatar OR Doha)
+RE,"(Reunion OR ""Saint-Denis"")"
+RO,(Romania OR Bucharest)
+RS,(Russia OR Moscow)
+RW,(Rwanda OR Kigali)
+SC,"(""Saint Kitts and Nevis"" OR Basseterre)"
+ST,"(""Saint Lucia"" OR Castries)"
+SB,"(""Saint Pierre and Miquelon "" OR ""Saint-Pierre"")"
+VC,"(""Saint Vincent and the Grenadines"" OR Kingstown)"
+WS,(Samoa OR Apia)
+SM,"(""San Marino"" OR ""San Marino"")"
+TP,"(""Sao Tome and Principe"" OR ""Sao Tome"")"
+SA,"(""Saudi Arabia"" OR Riyadh)"
+SG,(Senegal OR Dakar)
+RI,(Serbia OR Belgrade)
+SE,(Seychelles OR Victoria)
+SL,"(""Sierra Leone"" OR Freetown)"
+SN,(Singapore OR Singapore)
+SI,(Slovenia OR Ljubljana)
+BP,"(""Solomon Islands"" OR Honiara)"
+SO,(Somalia OR Mogadishu)
+SF,"(""South Africa"" OR Pretoria)"
+KS,"(""South Korea"" OR Seoul)"
+OD,"(""South Sudan"" OR Juba)"
+SP,(Spain OR Madrid)
+CE,"(""Sri Lanka"" OR Colombo)"
+SU,(Sudan OR Khartoum)
+NS,(Suriname OR Paramaribo)
+SV,(Svalbard OR Longyearbyen)
+WZ,(Swaziland OR Mbabane)
+SW,(Sweden OR Stockholm)
+SZ,(Switzerland OR Bern)
+SY,(Syria OR Damascus)
+TW,(Taiwan OR Taipei)
+TI,(Tajikistan OR Dushanbe)
+TZ,"(Tanzania OR ""Dar es Salaam"")"
+TH,(Thailand OR Bangkok)
+TO,(Togo OR Lome)
+TL,Tokelau
+TN,(Tonga OR Nuku'alofa)
+TD,"(""Trinidad and Tobago"" OR ""Port-of-Spain"")"
+TS,(Tunisia OR Tunis)
+TU,(Turkey OR Ankara)
+TX,(Turkmenistan OR Ashgabat)
+TK,"(""Turks and Caicos Islands"" OR ""Grand Turk"")"
+TV,(Tuvalu OR Funafuti)
+UG,(Uganda OR Kampala)
+UP,(Ukraine OR Kiev)
+AE,"(""United Arab Emirates"" OR ""Abu Dhabi"")"
+UK,"(""United Kingdom"" OR London)"
+US,"(""United States"" OR ""Washington, DC"")"
+UY,(Uruguay OR Montevideo)
+UZ,(Uzbekistan OR Tashkent)
+NH,"(Vanuatu OR ""Port-Vila"")"
+VT,"(""Vatican City"" OR ""Vatican City"")"
+VE,(Venezuela OR Caracas)
+VM,"(""Vietnam, Democratic Republic of"" OR Hanoi)"
+VQ,"(""Virgin Islands"" OR ""Charlotte Amalie"")"
+WF,"(""Wallis and Futuna"" OR ""Mata-Utu"")"
+WE,"(""West Bank"" OR Ramallah)"
+WI,Western Sahara
+YM,(Yemen OR Sanaa)
+ZA,(Zambia OR Lusaka)
+ZI,(Zimbabwe OR Harare)

@@ -66,6 +66,7 @@
         - [ ] See Schafer paper? Van Atteveldt?
     - [ ] Smooth on monthly basis
     - [ ] Make predictor of monthly change in violence
+        - [ ] See prediction metric given by Hegre e.a. 2022
     - [ ] Classify hard cases
 
 ### Week 9 & 10 (April 1 - April 14)
