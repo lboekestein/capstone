@@ -46,31 +46,29 @@
 - [X] Retrieve data from ACLED
     - [X] Evaluate cases of violence
     - [X] Evaluate presence of hard-cases
-    - [ ] Evaluate relevant literature
-- [ ] Decide on country/countries to case study
-    - [ ] Evaluate world-wide coverage
-- [ ] Scrape data from GDELT
-    - [ ] Make list of all relevant themes
-    - [ ] Narrow down timeframe
-    - [ ] Scrape all data for selected country from GDELT API
-- [ ] Scrape data from ACLED as features
-    - [ ] History of conflict, amount of cases per month
-- [ ] Combine data
-    - [ ] Merge GDELT and ACLED dataset
+- [X] Smooth on monthly basis
+- [X] Make predictor of log monthly change in violence
+    - [X] See prediction metric given by Hegre e.a. 2022
+- [X] Classify hard cases
+- [X] Scrape data from ACLED as features
+- [ ] Combine country naming of ACLED and GDELT
+    - [ ] Find relation between conflict intensity and news coverage
 
 ### Week 8 (March 25 - March 31)
-
-- [ ] Preprocess data
+- [ ] Meeting Jelke on RP feedback
+- [ ] Decide on country/countries to case study
+    - [ ] Evaluate world-wide coverage
+    - [ ] Evaluate relevant literature
+- [ ] Scrape all data for selected country/countries from GDELT API
+- [ ] Compute ACLED features
+    - [ ] History of conflict, amount of cases per month
+- [ ] Preprocess GDELT data
     - [ ] Classify coverage into local, regional and global
         - [ ] Look into literature for measures of closeness to classify regional news
         - [ ] See Schafer paper? Van Atteveldt?
-    - [ ] Smooth on monthly basis
-    - [ ] Make predictor of monthly change in violence
-        - [ ] See prediction metric given by Hegre e.a. 2022
-    - [ ] Classify hard cases
 
 ### Week 9 & 10 (April 1 - April 14)
-#### SOFT DEADLINE: Writing Update
+#### SOFT DEADLINE APRIL 10: Writing Update
 
 - [ ] Make prediction model
     - [ ] Apply Random forest
@@ -80,6 +78,9 @@
     - [ ] Compute prediction difference for local, regional and global
     - [ ] See is there is a statistically significant difference in prediction accuracy (Answer RQ)
     - [ ] Compare with baseline models (ViEWS, Mueller & Rauh)
+- [ ] OPTIONAL:
+    - [ ] Generalize pipeline
+    - [ ] Test for different countries
 
 ### Week 11 (April 15 - April 21)
 
@@ -89,12 +90,12 @@
     - [ ] Discussion
 
 ### Weeks 12 & 13 (April 22 - May 5)
-#### DEADLINE: Draft of thesis
+#### DEADLINE MAY 8: Draft of thesis
 
 - [ ] Write draft of thesis
 
 ### Weeks 14-16 (May 6 - May 26)
-#### DEADLINE: Final thesis
+#### DEADLINE MAY 29: Final thesis
 
 - [ ] Write final thesis
 
