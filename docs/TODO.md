@@ -55,20 +55,21 @@
     - [ ] Find relation between conflict intensity and news coverage
 
 ### Week 8 (March 25 - March 31)
-- [ ] Meeting Jelke on RP feedback
+- [X] Meeting Jelke on RP feedback
 - [ ] Decide on country/countries to case study
-    - [ ] Evaluate world-wide coverage
+    - [X] Evaluate world-wide coverage
     - [ ] Evaluate relevant literature
-- [ ] Scrape all data for selected country/countries from GDELT API
+- [X] Scrape all data for selected country/countries from GDELT API
+
+### Week 9 & 10 (April 1 - April 14)
+#### SOFT DEADLINE APRIL 10: Writing Update
+
 - [ ] Compute ACLED features
     - [ ] History of conflict, amount of cases per month
 - [ ] Preprocess GDELT data
     - [ ] Classify coverage into local, regional and global
-        - [ ] Look into literature for measures of closeness to classify regional news
-        - [ ] See Schafer paper? Van Atteveldt?
-
-### Week 9 & 10 (April 1 - April 14)
-#### SOFT DEADLINE APRIL 10: Writing Update
+        - [ ] See geography and gdelt for relative mentions, to classify regional and global
+    - [ ] Normalize with population? (or not, maybe normalize with GDELT presence? idk)
 
 - [ ] Make prediction model
     - [ ] Apply Random forest
