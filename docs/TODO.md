@@ -56,20 +56,27 @@
 
 ### Week 8 (March 25 - March 31)
 - [X] Meeting Jelke on RP feedback
-- [ ] Decide on country/countries to case study
+- [X] Decide on country/countries to case study
     - [X] Evaluate world-wide coverage
-    - [ ] Evaluate relevant literature
+    - [X] Evaluate relevant literature
 - [X] Scrape all data for selected country/countries from GDELT API
 
 ### Week 9 & 10 (April 1 - April 14)
 #### SOFT DEADLINE APRIL 10: Writing Update
 
+- [] Normalize data
+    - [ ] Regional and global data 
+        - [X] Scrape "Article count" for each source country
+        - [X] Normalize by percent of global news coverage   
+        - [ ] Perform exploratory data analysis
+        - [X] Compute average of themes per month for regional and global
+    - [X] Afghanistan data
+        - [X]  By theme, compute average per month
+
 - [ ] Compute ACLED features
     - [ ] History of conflict, amount of cases per month
-- [ ] Preprocess GDELT data
-    - [ ] Classify coverage into local, regional and global
-        - [ ] See geography and gdelt for relative mentions, to classify regional and global
-    - [ ] Normalize with population? (or not, maybe normalize with GDELT presence? idk)
+    
+- [ ] Investigate correlations of themes with change in conflict intensity
 
 - [ ] Make prediction model
     - [ ] Apply Random forest
