@@ -64,46 +64,39 @@
 ### Week 9 & 10 (April 1 - April 14)
 #### SOFT DEADLINE APRIL 10: Writing Update
 
-- [] Normalize data
-    - [ ] Regional and global data 
+- [X] Normalize data
+    - [X] Regional and global data 
         - [X] Scrape "Article count" for each source country
         - [X] Normalize by percent of global news coverage   
-        - [ ] Perform exploratory data analysis
+        - [X] Perform exploratory data analysis
         - [X] Compute average of themes per month for regional and global
     - [X] Afghanistan data
         - [X]  By theme, compute average per month
 
-- [ ] Compute ACLED features
-    - [ ] History of conflict, amount of cases per month
-    
-- [ ] Investigate correlations of themes with change in conflict intensity
-
-- [ ] Make prediction model
-    - [ ] Apply Random forest
-    - [ ] If needed, evaluate other methods
-- [ ] Evaluate model(s)
-    - [ ] Compute prediction accuracy
-    - [ ] Compute prediction difference for local, regional and global
-    - [ ] See is there is a statistically significant difference in prediction accuracy (Answer RQ)
-    - [ ] Compare with baseline models (ViEWS, Mueller & Rauh)
-- [ ] OPTIONAL:
-    - [ ] Generalize pipeline
-    - [ ] Test for different countries
-
 ### Week 11 (April 15 - April 21)
 
+- [X] Compute ACLED features
+    - [X] History of conflict, amount of cases per month
+    
+- [X] Investigate correlations of themes with change in conflict intensity
+
+### Weeks 12 & 13 (April 22 - May 5)
+#### DEADLINE MAY 8: Draft of thesis
+- [X] Make prediction model
+    - [X] Implement manual grid search
+- [X] Evaluate model(s)
+    - [X] Compute prediction accuracy
+    - [X] Compute prediction difference for local, regional and global
+    - [X] Compare with baseline models (ViEWS, Mueller & Rauh)
 - [ ] Make vizualizations
 - [ ] Start writing process
     - [ ] Results
     - [ ] Discussion
 
-### Weeks 12 & 13 (April 22 - May 5)
-#### DEADLINE MAY 8: Draft of thesis
-
+### Weeks 14 (May 6 - May 13)
 - [ ] Write draft of thesis
 
-### Weeks 14-16 (May 6 - May 26)
+### Weeks 15-16 (May 14 - May 26)
 #### DEADLINE MAY 29: Final thesis
 
 - [ ] Write final thesis
-
