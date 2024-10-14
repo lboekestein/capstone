@@ -20,10 +20,13 @@ See full report [here](reports/Final_paper.pdf).
 ## Information of repository
 
 - For replication of the project, see the [predicting folder](src/Predicting/).
-- The reports of this project can be found in the [reports folder](/reports/).
+
+The requirements needed to run the code can be found in the [requirements file](src/Predicting/requirements.txt). To install all requirements, run the following command in a terminal:
+
+```bash
+pip install -r requirements.txt
+```
 
 - For the documentation on the data sources used, see [data sources](docs/Data_sources.md).
-
 - The data used in this project can be found in the [data folder](/data/).
-
 - For vizualizations, see [vizualizations](docs/vizualizations.md).
