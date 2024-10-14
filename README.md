@@ -21,7 +21,7 @@ See full report [here](reports/Final_paper.pdf).
 
 - For replication of the project, see the [predicting folder](src/Predicting/).
 
-The requirements needed to run the code can be found in the [requirements file](src/Predicting/requirements.txt). To install all requirements, run the following command in a terminal:
+The requirements needed to run the code can be found in the [requirements file](requirements.txt). To install all requirements, run the following command in a terminal:
 
 ```bash
 pip install -r requirements.txt
