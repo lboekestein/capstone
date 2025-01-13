@@ -1,5 +1,7 @@
 # The Value of Local News Sources for Conflict Forecasting: Predicting Changes in Violence Intensity in Afghanistan Using Themes in the Media
 
+![Cover picture](figs/coverpicture.jpg)
+
 #### Author: Luuk Boekestein (Amsterdam University College, Uppsala University), luuk.boekestein@gmail.com
 #### Supervisor: Jelke Bloem (University of Amsterdam), j.bloem@uva.nl
 #### Reader: Dr. ir. Jaap Kamps (University of Amsterdam), j.kamps@uva.nl
